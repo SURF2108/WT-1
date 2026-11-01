@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.banner {
+  padding: 100px 20px;
+  background-color: #e8f1e8;
+}
+
+.banner h1 {
+  margin-bottom: 15px;
+  color: #245c38;
+}
+
+.banner p {
+  margin-bottom: 24px;
+}
+
+.card img {
+  height: 220px;
+  object-fit: cover;
+}
+
+.about-section {
+  background-color: #e8f1e8;
+}
+
+.about-section p {
+  max-width: 600px;
+  margin-top: 15px;
+}
+
+footer p {
+  font-size: 14px;
+}
